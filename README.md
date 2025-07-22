@@ -1,8 +1,7 @@
 <div align="center">
 
-  <img src="[LINK_PARA_SEU_LOGO_AQUI]" alt="Fintask Logo" width="150"/>
+  <img src="assets/logo1.png" alt="Fintask Logo" width="150"/>
 
-  # Fintask
 
   <p>
     <strong>Transforme seu controle financeiro em tarefas simples e organizadas.</strong>
